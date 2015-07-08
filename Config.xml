@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config xmlns="http://www.example.org/Config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/Config Config.xsd">
+	<IP>127.0.0.1</IP>
+	<Port>1025</Port>
+</Config>
